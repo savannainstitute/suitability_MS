@@ -1,0 +1,13 @@
+species,variable,s_min,s_max,s_value,i_min,i_max,i_value,units,source_score,n_sources,sd,n_sources_u,include
+Chestnut,chilling hours,400,Inf,,750,Inf,,,0.45,2,0.212132034,2,0
+Chestnut,frost free days,180,Inf,,,,,,0.8,1,#DIV/0!,1,0
+Chestnut,growing degree days,2300,Inf,,,,,deg F; base temp 50 deg F,0.4,1,#DIV/0!,1,1
+Chestnut,minimum winter temperature,-29,Inf,,-23.3,Inf,,deg C,0.71,10,0.191195072,10,1
+Chestnut,parent material,,,!limestone,,,gneiss,,0.7,2,0.141421356,2,0
+Chestnut,pH,4.5,7,,5,6.5,,,0.671428571,14,0.163747326,13,1
+Chestnut,precipitation,500,1524,,500,1000,,mm,0.733333333,3,0.115470054,3,0
+Chestnut,soil depth,99,Inf,,183,Inf,,cm,0.64,5,0.207364414,5,1
+Chestnut,soil drainage,,,"somewhat excessively drained, well drained, moderately well drained",,,"well drained, somewhat excessively drained",,0.628571429,14,0.18156826,12,1
+Chestnut,soil texture,,,"sand, loamy sand, sandy loam, sandy clay loam, loam, silt loam, silt, silty clay loam",,,"loam, sandy loam, loamy sand",,0.615789474,19,0.183373201,16,1
+Chestnut,topographic position,,,"hillside, hilltop, flatland",,,"hillside, hilltop",,0.8,9,0.158113883,6,0
+Chestnut,USDA zone,5,9,,6,8,,,0.59,10,0.159513148,10,0
